@@ -11,7 +11,7 @@ Frontend Developer from Iran with over 2 Years of professional experience in web
 <h4>Socials :</h5>
 
 <div align="center">
-  <a href="https://gmail.com/amirhossein4.dev@gmail.com" target="_blank">
+  <a href="mailto:amirhossein4.dev@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://instagram.com/amir_hossein_gorzin" target="_blank">
