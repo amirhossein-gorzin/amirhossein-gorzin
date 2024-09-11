@@ -1,4 +1,4 @@
-<h1 align="center" >Hi there! I'm Amirhossein Gorzin 🖐</h2>
+<h1 align="center" >Hi  🖐 I'm Amirhossein Gorzin</h2>
 <h3>👨‍💻 About Me :</h3>
 Frontend Developer from Iran with over 2 Years of professional experience in web and UI development using latest web technologies.
 <br>
