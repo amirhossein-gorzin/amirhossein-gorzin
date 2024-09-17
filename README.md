@@ -6,7 +6,7 @@ Frontend Developer from Iran with over 2 Years of professional experience in web
 
 - 🎓 &nbsp; Student of Computer Sience In Ferdowsi University of Mashhad
 - 💼 &nbsp; Working as a Frontend Developer
-- ✍️ &nbsp; In my free time, I solve problems on GeeksforGeeks and read tech articles
+- ✍️ &nbsp; In my free time, I read tech articles
 
 <h4>Socials :</h5>
 
