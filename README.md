@@ -30,7 +30,7 @@ Frontend Developer from Iran with over 2 Years of professional experience in web
 <h3>🛠️ Languages and Tools :</h3>
 <div align="center">
   
-  ![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,react,redux,next,mongodb,mysql,figma)
+  ![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,react,redux,next,ts,mongodb,mysql,figma)
   
 </div>
 <hr>
