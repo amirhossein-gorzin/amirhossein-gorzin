@@ -17,7 +17,7 @@ Frontend Developer from Iran with over 2 Years of professional experience in web
   <a href="https://instagram.com/amir_hossein_gorzin" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/amirhossein-gorzin" target="_blank">
+  <a href="https://www.linkedin.com/in/amirhossein--gorzin" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://t.me/Amirhossein577" target="_blank">
